@@ -1,0 +1,10 @@
+1 132 mark
+2 76 dav
+3 8 david
+4 7 Monika
+5 6 Mark
+6 1 Gaci
+7 1 NA
+8 1 NA
+9 0 NA
+10 0 NA

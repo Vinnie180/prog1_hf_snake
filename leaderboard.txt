@@ -1,0 +1,10 @@
+1 132 mark
+2 6 Mark
+3 3 nyad
+4 1 NA
+5 0 NA
+6 0 NA
+7 0 NA
+8 0 NA
+9 0 NA
+10 0 NA
